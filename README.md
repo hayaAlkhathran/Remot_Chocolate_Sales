@@ -11,8 +11,6 @@ pandas – data manipulation
 
 matplotlib – data visualization
 
-numpy – numerical support
-
 UV – fast package/environment manager
 
 
